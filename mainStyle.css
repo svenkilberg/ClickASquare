@@ -1,0 +1,16 @@
+canvas {
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    float: left;
+}
+.XYPanel {
+    float: left;
+    margin: 20px;
+    border: solid;
+}
+
+.XYPanel p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
